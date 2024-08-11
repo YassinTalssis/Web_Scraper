@@ -4,6 +4,7 @@ from elasticsearch import Elasticsearch
 import jsonpickle
 import requests
 from bs4 import BeautifulSoup
+#ty
 class A(object):
     def __init__(self, name):
         self.name=name
