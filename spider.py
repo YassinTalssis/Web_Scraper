@@ -1,7 +1,7 @@
 from general import *
 from urllib.parse import urljoin
 import re
-
+#ty
 class spider:
     # here, i defined the static variables (shared between all the spiders)
     project_name = ''
