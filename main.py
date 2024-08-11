@@ -3,7 +3,7 @@ from queue import Queue
 from spider import spider
 from domain import *
 from general import *
-
+#ty
 PROJECT_NAME = 'Links'
 HOME_PAGE = 'https://www.javatpoint.com/'
 QUEUE_FILE = PROJECT_NAME + '/queue.txt'
